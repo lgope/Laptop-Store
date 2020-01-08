@@ -1,5 +1,5 @@
 {
-  "name": "the-laptop-store",
+  "name": "laptop-store",
   "version": "1.0.0",
   "description": "Simple nodejs web demo",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lakshmangope/The-Laptop-Store.git"
+    "url": "git+https://github.com/lgope/Laptop-Store.git"
   },
   "author": "Lakshman Gope",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lakshmangope/The-Laptop-Store/issues"
+    "url": "https://github.com/lgope/Laptop-Store/issues"
   },
-  "homepage": "https://github.com/Lakshmangope/The-Laptop-Store#readme",
+  "homepage": "https://github.com/lgope/Laptop-Store#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
