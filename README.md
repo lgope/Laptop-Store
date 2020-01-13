@@ -25,7 +25,9 @@ Some of the standout features of the project are:
 
 ### To run this project :
 You can fork the app or you can git-clone the app into your local machine. Once done that, please install all the dependencies by running
+
 `$ git clone https://github.com/lgope/Laptop-Store`
+
 `$ cd Laptop-Store`
 
 Install project dependencies:
@@ -37,7 +39,8 @@ Start the app:
 #### Future Updates
 * Enable PWA
 * Leaderboard
+
 And More ! There's always room for improvement!
 
 #### Deployed Version (Feel free to visit) 👇
-Here is the deployed version 👉 https://the-laptop-shop.herokuapp.com/
+https://the-laptop-shop.herokuapp.com/
