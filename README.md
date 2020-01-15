@@ -3,6 +3,8 @@ This is a laptop store demo web. And it's my first nodejs web project. 🙂
 
 ## Technologies Used :
 <ul>
+<li><b>html5 </b></li>
+<li><b>css3 </b></li>
 <li><b>Nodejs </b></li>
 <li><b>Expressjs </b></li>
 <li><b>File System </b></li>
@@ -40,7 +42,7 @@ Start the app:
 * Enable PWA
 * Leaderboard
 
-And More ! There's always room for improvement!
+And More! There's always room for improvement!
 
 #### Deployed Version (Feel free to visit) 👇
 https://the-laptop-shop.herokuapp.com/
